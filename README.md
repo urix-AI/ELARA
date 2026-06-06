@@ -34,6 +34,6 @@ Designed for seamless integration into B2B SaaS platforms and e-commerce applica
 
 ### Install dependencies:
     npm install
-    3. DEEPSEEK_API_KEY=your_api_key_here
+    3. openrouter_key_here=your_api_key_here #in the config.py deepseek model
     4.npm run dev
 
